@@ -43,3 +43,14 @@ local.properties
 
 # PDT-specific
 .buildpath
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
