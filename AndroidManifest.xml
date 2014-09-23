@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ru.fastcards"
+    android:versionCode="21"
+    android:versionName="1.0.2" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_MMS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_APN_SETTINGS" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.provider.Telephony.SMS_RECEIVED" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="false"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.Fastcards" >
+        <activity
+            android:name="ru.fastcards.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ru.fastcards.social.api.TestActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="ru.fastcards.EventsActivity"
+            android:label="@string/title_events_activity"
+            android:parentActivityName="ru.fastcards.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.MainActivity" />
+        </activity>  
+	    <activity
+            android:name="ru.fastcards.CalendarActivity"
+            android:label="@string/title_events_activity"
+            android:parentActivityName="ru.fastcards.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.MainActivity" />
+        </activity> 
+        <activity
+            android:name="ru.fastcards.manager.ManageEventActivity"
+            android:label="@string/title_manage_event_activity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="ru.fastcards.manager.TestActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="ru.fastcards.ListSelectorActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="ru.fastcards.ThemeSelectorActivity"
+            android:label="@string/title_theme_selector_activity"
+            android:parentActivityName="ru.fastcards.CalendarActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.CalendarActivity" />
+        </activity>
+        <activity
+            android:name="ru.fastcards.PurchaseActivity"
+            android:parentActivityName="ru.fastcards.ShopActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.ShopActivity" />
+        </activity>
+        <activity
+            android:name="ru.fastcards.HubActivity"
+            android:label="@string/title_post_social_activity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="ru.fastcards.recipientselectors.PostcardSenderActivity"
+            android:label="@string/title_postcard_sender_activity"
+            android:parentActivityName="ru.fastcards.editor.EditorActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.editor.EditorActivity" />
+        </activity>
+        <activity
+            android:name="ru.fastcards.FinishSendingActivity"
+            android:label="@string/title_finish_sending_activity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="ru.fastcards.manager.ProjectsManagerActivity"
+            android:label="@string/title_projects_manager_activity"
+            android:parentActivityName="ru.fastcards.manager.ManagerActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.manager.ManagerActivity" />
+        </activity>
+        <activity
+            android:name="ru.fastcards.manager.ContactsManagerActivity"
+            android:label="@string/title_contacts_manager_activity"
+            android:parentActivityName="ru.fastcards.manager.ManagerActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.manager.ManagerActivity" />
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ru.fastcards.manager.ManageGroupActivity"
+            android:label="@string/title_manage_group_activity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name="ru.fastcards.recipientselectors.PreviewListActivity"
+            android:label="@string/title_preview_list_activity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="ru.fastcards.recipientselectors.ChooseGroupActivity"
+            android:label="@string/title_choose_group_activity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name="ru.fastcards.recipientselectors.SeceltMultipleContactsActivity"
+            android:label="@string/title_select_contacts_activity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+        </activity>
+                <activity
+            android:name="ru.fastcards.recipientselectors.SelectedContactsDisplayerAcivity"
+            android:label="@string/title_select_contacts_activity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="ru.fastcards.manager.ManageContactActivity"
+            android:label="@string/title_manage_contacts_activity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable"
+                android:value=".activities.SearchResultActivity" />
+        </activity>
+        <activity
+            android:name="ru.fastcards.social.api.VkLoginActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.facebook.LoginActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="ru.fastcards.recipientselectors.RecipientSelectorActivity"
+            android:parentActivityName="ru.fastcards.manager.ManageEventActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.manager.ManageEventActivity" />
+        </activity>
+        <activity android:name="com.dropbox.sync.android.DbxAuthActivity" />
+        <activity
+            android:name="com.dropbox.client2.android.AuthActivity"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <data android:scheme="db-l0ctz1cug04glr4" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ru.fastcards.editor.EditorActivity"
+            android:label="@string/title_editor_activity"
+            android:parentActivityName="ru.fastcards.ThemeSelectorActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateUnchanged" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.ThemeSelectorActivity" />
+        </activity>
+        <activity
+            android:name="ru.fastcards.editor.SignatureActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="ru.fastcards.shop.MainShopActivity"
+            android:label="@string/title_main_shop_activity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="ru.fastcards.manager.ManagerActivity"
+            android:label="@string/title_activity_manager"
+            android:parentActivityName="ru.fastcards.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.MainActivity" />
+        </activity>
+        <activity
+            android:name="ru.fastcards.profile.ProfileActivity"
+            android:label="@string/title_activity_profile"
+            android:parentActivityName="ru.fastcards.manager.ManagerActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.manager.ManagerActivity" />
+        </activity>
+        <activity
+            android:name="ru.fastcards.profile.MyEventsActivity"
+            android:label="@string/title_activity_my_events"
+            android:parentActivityName="ru.fastcards.profile.ProfileActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.profile.ProfileActivity" />
+        </activity>
+        <activity
+            android:name="ru.fastcards.profile.SocialNetworkActivity"
+            android:label="@string/title_activity_social_network"
+            android:parentActivityName="ru.fastcards.profile.ProfileActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.profile.ProfileActivity" />
+        </activity>
+        <activity
+            android:name="ru.fastcards.shop.StarsShopActivity"
+            android:label="@string/title_stars_shop_activity"
+            android:parentActivityName="ru.fastcards.profile.ProfileActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="ru.fastcards.profile.ProfileActivity" />
+        </activity>
+        <activity
+            android:name="ru.fastcards.PrintPdfActivity"
+            android:label="@string/title_print_activity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.facebook.FacebookLoginActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="ru.fastcards.PrintDialogActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <service android:name="com.android.mms.transaction.TransactionService" />
+        <service
+            android:name="ru.fastcards.send.ReminderService"
+            android:enabled="true" />
+        <service
+            android:name="com.dropbox.sync.android.DbxSyncService"
+            android:enabled="true"
+            android:exported="false"
+            android:label="Dropbox Sync" />
+
+        <receiver
+            android:name="AlarmReciver"
+            android:process=":remote" >
+        </receiver>
+        <receiver android:name="ru.fastcards.send.AlarmReceiver" />
+        <receiver android:name="com.klinker.android.send_message.SentReceiver" >
+            <intent-filter>
+                <action android:name="ru.fastcards.SMS_SENT" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.klinker.android.send_message.DeliveredReceiver" >
+            <intent-filter>
+                <action android:name="ru.fastcards.SMS_DELIVERED" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/id_facebook" />
+    </application>
+
+</manifest>

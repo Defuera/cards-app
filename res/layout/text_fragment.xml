@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+         
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/color_for_lists_divider" />
+    
+    <LinearLayout		
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+    	android:layout_height="50dp"
+    	android:gravity="center_vertical"
+    	android:paddingLeft="10dp"
+    	android:paddingRight="10dp"
+        android:background="@android:color/white"
+        android:orientation="horizontal">
+        
+        
+        <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/arrow_left"/>  
+
+		<TextView
+		android:id="@+id/header_text"
+    	android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:gravity="center_vertical"
+    	android:paddingLeft="10dp"
+        android:textColor="@android:color/black"/>
+	</LinearLayout>
+	    
+	<View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/color_for_lists_divider" />
+   
+   	<ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@android:color/black"
+        android:dividerHeight="1px" >
+	</ListView>
+
+</LinearLayout>

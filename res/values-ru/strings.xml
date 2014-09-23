@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="id_vkontakte">2800844</string>
+    <string name="id_instagram">2fb9e23aa3e740639d0d9e1479f011fc</string>
+    <string name="id_facebook">1414152868808243</string>
+    <string name="str_15x10cm_single_side">15x10cm single side</string>
+    <string name="str_15x10cm_double_side">15x10cm double side</string>
+    <string name="str_21x10cm_double_side">21x10cm double side</string>
+    <string name="str_bil_key1">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn44wEs4nZQDBiIwFVabQ</string>
+    <string name="str_bil_key2">j/iW5+6QL1+BNj18bo1aNCLP1Ck0IR2oUn4WZ+ZpaOe8MPFrzED2hEcgOMqsw5S514qqDQ+t+lPqH6E5bxfQKFt43xhOLRbhwZXmIMhHUpPhVZBPNX+T/</string>
+    <string name="str_bil_key3">EFu2LlLBPPIi/aMGy1m8O3sgxSNCJOSfwA7C9A9IL/pZGsr24k9AjZ7rUvzdKGQjDW4sW0rrsZdB4RYQFN5/77wXuNB5HgzxkMyTFPqRTBKmuS</string>
+    <string name="str_bil_key4">ki3aQ1VGqMWn9nZGMGjUEYjKJyuIBZwNxmmpjYiDw+eMaZEe3NOzw3Q+VSncYge7OcVSPa8C5+BFDKAcE8fJnxo59QDA/1wIDAQAB</string>
+    <string name="app_name">FastCards</string>
+    <string name="alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЬЫЭЮЯ</string>
+    
+    
+	<string name="action_settings">Настройки</string>
+    <string name="str_projects">Проекты</string>
+    <string name="str_no_network_connection">Ошибка соединения. Проверьте подключение к интернету</string>
+    <string name="str_select_item">Выбрать</string>
+    <string name="str_send">Отправить</string>
+    <string name="str_postcards">Открытки</string>
+    <string name="str_manager">Управление</string>
+    <string name="input">Введите текст</string>
+    <string name="appeal">Обращение</string>
+    <string name="signature">Подпись</string>
+    <string name="sign_please">Распишитесь, пожалуйста</string>
+    <string name="str_send_myself">Отправить себе</string>
+    <string name="str_recipients">Получателей</string>
+    <string name="str_bought">Куплено</string>
+    <string name="recently_used">Недавно использованные</string>
+    <string name="recipient">Получатель</string>
+    <string name="search_title">Поиск</string>
+    <string name="str_error_recipients_list_empty">Список получателей пуст</string>
+    <string name="card_store">Магазин</string>
+    <string name="projects">Проекты</string>
+    <string name="project">Проект</string>
+    <string name="str_saved">сохранен</string>
+    <string name="str_save_project">Сохранение проекта</string>
+
+    <string name="str_profile">Профиль</string>
+    <string name="str_selection">Подборка</string>
+    <string name="str_selections">Подборки</string>
+    <string name="str_purchases">Покупки</string>
+    <string name="str_search">Поиск</string>
+    <string name="str_categories">Категории</string>
+    <string name="str_new">Новинки</string>
+    <string name="str_offer">Акции</string>
+    <string name="str_top_sellers">Лидеры продаж</string>
+    <string name="str_search_hint">Поиск в контактах</string>
+    <string name="str_catalog">Каталог</string>
+    <string name="str_bundles">Наборы</string>
+    
+    <string name="themes">Открытки</string>
+    <string name="texts">Тексты</string>
+    <string name="search_cancelled">Поиск не дал результатов</string>
+    <string name="my_events">Мои события</string>
+    <string name="social_networks">Социальные сети</string>
+    <string name="my_notifications">Мои напоминания</string>
+    <string name="settings">Настройки</string>
+   
+    <string name="my_wallet">Кошелек</string>
+    <string name="my_events_activity">Мои события</string>
+    <string name="my_events_description">Ваши события отображаются в напоминаниях при создании открытки и выделяются желтым цветом </string>
+    
+    <string name="empty_event_list">Ваш список событий пуст</string>
+    <string name="my_social_networks_description">Приложение получает доступ к вашей личной информации и контактам</string>
+    <string name="social_network_activity">Социальные сети</string>
+    <string name="str_yes">Да</string>
+    <string name="str_no">Нет</string>
+    <string name="str_save_project_title">Сохранение проекта</string>
+    <string name="str_save_project_message">Введите название проекта</string>
+    <string name="finish_dialog_message">Все изменени будут потеряны. Вы уверены, что хотите выйти?</string>
+    <string name="connecting">Пожалуйста, подождите&#8230; Идет соединение с сервером</string>
+    <string name="load_previevs">Пожалуйста, подождите&#8230; Идет загрузка</string>
+    <string name="server_connecting_error">Ошибка соединения с сервером</string>
+    <string name="str_this_week">В БЛИЖАЙШУЮ НЕДЕЛЮ</string>
+    <string name="str_this_month">В БЛИЖАЙШИЙ МЕСЯЦ</string>
+    <string name="str_users">Получатели</string>
+    <string name="str_wallet">Кошелек</string>
+    <string name="in_you_purse">В вашем кошельке </string>
+    <string name="credit">звезд. </string>
+    <string name="want_to_recharge">Хотите его пополнить?</string>
+    <string name="wallet_replenishment">Get more stars</string>
+    <string name="select_number_of_credits">Выберите желаемое количество звезд для покупки</string>
+    
+    <string name="loading_events">Пожалуйста, подождите&#8230; Идет загрузка событий</string>
+    <string name="loading_postcards">Пожалуйста, подождите&#8230; Идет загрузка открыток</string>
+    <string name="loading_categories">Пожалуйста, подождите&#8230; Идет загрузка категорий</string>
+    <string name="loading_catalog">Пожалуйста подождите&#8230; Идет загрузка каталога</string>
+    
+    <string name="whithout_appeal">Без обращения</string>
+    <string name="str_transaction_success">Покупка совершена</string>
+    <string name="str_transaction_failed">Ошибка соединения</string>
+    <string name="title_events_activity">События</string>
+    <string name="title_shop_activity">Выберите открытку</string>
+    <string name="str_dont_forget">Не забудьте!</string>
+    <string name="title_activity_editor">Редактор</string>
+    <string name="greeting_texts">Поздравительные тексты</string>
+
+    <string name="str_new_event">Новое событие</string>
+    <string name="str_event_name">Название события</string>
+    <string name="str_category">Категория</string>
+    <string name="str_date">дата</string>
+    <string name="str_push">Напомнить</string>
+    <string name="str_cancel">Отмена</string>
+    <string name="str_add">Добавить</string>
+    <string name="str_actions">Акции!</string>
+    <string name="str_delete">Удалить</string>
+    <string name="str_recipient">Получатель</string>
+    <string name="str_buy">Купить</string>
+    <string name="str_ok">Oк</string>
+    <string name="str_choose">Выбрать</string>
+    <string name="str_edit">Редактировать</string>
+    <string name="vertical_description">Открытка для рассылки друзьям по списку контактов. Можно написать текст и расписаться</string>
+    <string name="square_description">Открытка для публикации в своем аккаунте социальной сети</string>
+    <string name="print_description">Двухсторонняя открытка для печати</string>
+
+    <string name="title_activity_manager">Менеджер</string>
+    <string name="title_manage_event_activity">Редактор событий</string>
+    <string name="title_theme_selector_activity">Выберите открытку</string>
+    <string name="title_postcard_sender_activity">Отправка</string>
+    <string name="title_finish_sending_activity">Отправка завершена</string>
+    <string name="title_contacts_manager_activity">Контакты</string>
+    <string name="title_projects_manager_activity">Проекты</string>
+    <string name="title_manage_group_activity">Редактировать список</string>
+    <string name="title_choose_group_activity">Выбрать список</string>
+    <string name="title_editor_activity">Редактор</string>
+    <string name="title_activity_profile">Профиль</string>
+    <string name="title_activity_my_events">Мои события</string>
+    <string name="title_activity_social_network">Социальные сети</string>
+    
+    <string name="title_select_contacts_activity">Выбор контактов</string>
+    <string name="title_manage_contacts_activity">Редактировать контакт</string>
+    <string name="title_selector_activity">Выбрать контакты</string>
+    <string name="title_post_social_activity">Отправка</string>
+    <string name="title_print_activity">Отправка</string>
+    <string name="title_main_shop_activity">Магазин</string>
+    <string name="title_recipients_selector_activity">Контакты</string>
+    <string name="title_stars_shop_activity">Пополнение кошелька</string>
+    <string name="title_contacts_manager_activity">Контакты</string>
+    <string name="title_preview_list_activity">Список контактов</string>
+   
+    <string name="str_send">Отправить</string>
+    <string name="str_send_later">Отправить позже</string>
+    <string name="str_save">Сохранить</string>
+    <string name="str_cards_ready">открытки готовы к отправке</string>
+    <string name="str_empty_projects_error">У вас нет сохраненных проектов</string>
+    <string name="str_contacts">Контакты</string>
+    <string name="str_lists">Списки</string>
+    <string name="str_send_done">Отправка</string>
+    <string name="str_send_done_additional">адресат получит вашу открытку</string>
+    <string name="str_send_done_additionals">адресата получат ваши открытки</string>
+    <string name="str_hint_save_group">Вы можете созранить текущий список для дальнейшего использования</string>
+    <string name="str_hint_tell_friend">Расскажите о приложении друзьям и получите кредиты на счет</string>
+    <string name="str_tell">Рассказать</string>
+    <string name="str_save_group_title">Сохранение списка</string>
+    <string name="str_save_group_message">Введите название списка</string>
+    <string name="str_join_contacts">Объединить с&#8230;</string>
+    <string name="str_action_join_contacts">Объединить</string>
+    <string name="str_male">Муж.</string>
+    <string name="str_female">Жен.</string>
+    <string name="str_done">Готово</string>
+    <string name="str_hint_group_name">Имя группы</string>
+    <string name="str_error_enter_gr_name">Необходимо задать имя группы</string>
+    <string name="str_error_enter_pr_name">Ошибка. Необходимо задать имя проекта</string>
+    <string name="str_show">Показать</string>
+    <string name="str_progress_sending_title">Отправка</string>
+    <string name="str_progress_sending_body">Пожалуйста подождите пока завершится отправка</string>
+    <string name="str_loading_title">Загрузка&#8230;</string>
+    <string name="str_loading_stars_body">Подождите, идет соединение с сервером&#8230;</string>
+     <string name="str_import_start">Импорт контактов&#8230;</string>
+     <string name="str_not_star_error">Не достаточно средств;</string>
+     <string name="str_all">Все</string>
+  
+    <string name="str_vkontakte">Вконтакте</string>
+    <string name="str_facebook">Facebook</string>
+    <string name="str_title_log_in">Авторизоваться</string>
+    <string name="str_title_log_out">Выйти</string>
+    <string name="str_not_synced">Не авторизован</string>
+    <string name="str_logged_in">Авторизован</string>
+    <string name="print">Печать</string>
+    <string name="save">Сохранить</string>
+    <string name="print_or_save">Вы можете распечатать открытку на принтере или сохранить на внешнем диске</string>
+    <string name="input_filename">Введите название файла</string>
+    <string name="post_instagram">Опубликовать в Instagram</string>
+    <string name="post_twitter">Опубликовать в Twitter</string>
+    <string name="str_on">ON</string>
+    <string name="str_off">OFF</string>
+    <string name="str_post_vk">Опубликовать во Вконтакте</string>
+    <string name="str_post_fb">Опубликовать в Facebook</string>
+    <string name="str_auth_fb">Авторизоваться во Facebook</string>
+    <string name="str_auth_vk">Авторизоваться в Вконтакте</string>
+    <string name="str_soc_net_not_choosed">Не выбрано ни одной социальной сети</string>
+    
+    <string name="str_send_later">Отправить позже</string>
+    <string name="str_save">Сохранить</string>
+    <string name="str_cards_ready">открытки готовы к отправке</string>
+    <string name="str_authorize">Авторизация</string>
+    <string name="str_auth_sn_to_sendyourself">Для того, что бы отправить открыту себе необходимо авторизоваться в социальной сети.</string>
+    
+    <string name="str_star_one">звезда</string>
+    <string name="str_star_end_one">звезда</string>
+    <string name="str_star_end_two">звезды</string>
+    <string name="str_star_end_five">звезд</string>  
+
+    <string name="str_log_out_title">Выйти из социальной сети</string>  
+    <string name="str_please_wait">Пожалуйста подождите&#8230;</string>  
+    <string name="str_list_is_empty">Список пуст</string>
+    <string name="str_input_name">Пожалуйста, введите имя файла </string>
+    <string name="str_not_correct_name">Некорректное имя файла </string>  
+    
+    <string name="title_loading_dialog">Пожалуйста подождите</string>  
+    <string name="str_loading_contacts">Идет загрузка контактов</string>  
+    <string name="str_save_list">Сохранить список</string> 
+    <string name="str_error_sending_mms">Ошибка отправки ММС. Проверьте соединение с сетью</string> 
+    <string name="str_calendar">Календарь</string>
+    <string name="str_error_choose_category">Выберете категорию</string>
+    <string name="str_add_event">Создать событие</string>
+    
+    <string name="str_send_friends">Отправить друзьям</string>
+    <string name="str_sending">Отправка &#8230;</string>
+    <string name="str_sending_successfull">Отправка завершена</string>
+    <string name="str_calendar_import_friends_msg">Для того, что бы дни рождения ваших друзей отображались в календаре авторизируйтесь в социальных сетях.</string>
+    
+        <string name="str_bdays">Дни рожд.</string>
+    <string name="str_hdays">Праздники</string>
+    <string name="str_personal">Мои соб.</string>
+    <string name="str_all">Все</string>
+    
+    <string-array name="array_notification_timers">
+        <item>В день события</item>
+        <item>За день до события</item>
+        <item>За два дня до события</item>
+        <item>За неделю</item>
+    </string-array>
+
+
+</resources>

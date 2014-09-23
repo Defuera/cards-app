@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"  
+    android:weightSum="1"
+    tools:context=".MainShopActivity" >
+
+    <FrameLayout
+ 			android:id="@+id/fragment_container"
+ 			android:layout_width="match_parent"
+ 			android:layout_weight="1"
+ 			android:layout_height="0dip">
+	</FrameLayout>
+		
+    <FrameLayout
+        android:id="@+id/bottom_panel_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black_transparent" > 
+    </FrameLayout>
+    
+</LinearLayout>

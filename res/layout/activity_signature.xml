@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/paint_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    tools:context=".SignatureActivity" >
+    
+
+        
+    <LinearLayout 
+        android:id="@+id/paint_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:background="@android:color/white"
+        android:orientation="horizontal">             
+    </LinearLayout>
+    
+    <TextView 
+        android:id="@+id/hint"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:rotation="-90"
+        android:gravity="center"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:textColor="@android:color/darker_gray"
+        android:text="@string/sign_please"/>
+
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_centerInParent="true"
+       android:layout_alignParentRight="true"
+       android:orientation="vertical" >
+        
+    <Button
+        android:id="@+id/button_signature_ok"
+        android:layout_width="48dp"        
+        android:rotation="-90"
+        android:layout_height="match_parent"
+        android:background="@drawable/selector_btn_checked" />
+        
+    <Button
+        android:id="@+id/button_clear"
+        android:layout_width="48dp"        
+        android:rotation="-90"
+        android:layout_height="match_parent"        
+        android:background="@drawable/selector_btn_clear" />
+
+
+
+</LinearLayout>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:layout_width="match_parent"	
+	android:layout_height="wrap_content"
+    android:id="@+id/background">
+<requestFocus />
+
+    <ImageView
+        android:id="@+id/postcard_background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="fitXY" />
+
+    <FrameLayout
+        style="@style/PostcardEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/workspace_vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+<!--  
+        <LinearLayout
+            android:id="@+id/title_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/asking"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:hint="@string/appeal"
+            android:paddingLeft="10dp"
+            android:textSize="12sp" />
+        <TextView 
+            android:id="@+id/recepient"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/recipient"/>
+        </LinearLayout> -->
+
+        <EditText
+            android:id="@+id/postcard_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@android:color/transparent"
+            android:gravity="center"
+            android:longClickable="false"
+            android:singleLine="false"
+            android:textSize="15sp" >
+        </EditText>
+        
+ <!--       <EditText
+                android:id="@+id/signature_text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+            	android:background="@android:color/transparent"
+                android:singleLine="true"
+                android:gravity="center" /> -->
+    </LinearLayout>
+    	    
+    	<RelativeLayout
+    	    android:id="@+id/signature_container"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content" >
+	
+    	 <ImageView
+                android:id="@+id/signature_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:scaleType="centerInside"/>
+    	 
+    	  <ImageView
+                android:id="@+id/signature_background"    	        
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:src="@drawable/selector_btn_add_signature"/>
+
+        </RelativeLayout>
+    </FrameLayout>
+
+</FrameLayout>

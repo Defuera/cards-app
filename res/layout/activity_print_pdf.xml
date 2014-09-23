@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="30dp"
+        android:paddingBottom="30dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:background="@android:color/black" >
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:background="@drawable/selector_btn_green"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:text="@string/print" 
+        android:onClick="onPrintButtonClick"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:textColor="@android:color/black"
+        android:background="@drawable/selector_btn_white"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:text="@string/save" 
+        android:onClick="onDbButtonClick"/>
+    
+    </LinearLayout>
+
+    <TextView
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="10dp"
+        android:text="@string/print_or_save" />
+
+</RelativeLayout>

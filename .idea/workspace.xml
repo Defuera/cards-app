@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="894c456a-62f0-4dcc-a364-b9a09230fd50" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FastCards_a - Ярлык.lnk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lint.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/ListSelectorActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/ListSelectorActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_vertical.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_vertical.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_purse.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_purse.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/inapp/IabResult.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/inapp/IabResult.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/InstagramApi.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/InstagramApi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/RecipientsSelectorAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/RecipientsSelectorAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/CalendarActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/CalendarActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/shop_grid_view.xml" afterPath="$PROJECT_DIR$/res/layout/shop_grid_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/fragment_main_buttons.xml" afterPath="$PROJECT_DIR$/res/layout/fragment_main_buttons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/fragment_actions.xml" afterPath="$PROJECT_DIR$/res/layout/fragment_actions.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/inapp/Base64.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/inapp/Base64.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_recently_used_text.xml" afterPath="$PROJECT_DIR$/res/layout/row_recently_used_text.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/TextPacksAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/TextPacksAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/ab_tab_indicator.xml" afterPath="$PROJECT_DIR$/res/drawable/ab_tab_indicator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/fragment_bundle.xml" afterPath="$PROJECT_DIR$/res/layout/fragment_bundle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_green.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_green.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/appearance_minus.xml" afterPath="$PROJECT_DIR$/res/anim/appearance_minus.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/EventsActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/EventsActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/raw_simple_chooser_multiple.xml" afterPath="$PROJECT_DIR$/res/layout/raw_simple_chooser_multiple.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/ShopDialogFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/ShopDialogFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/selector_btn_adresses.xml" afterPath="$PROJECT_DIR$/res/layout/selector_btn_adresses.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/inapp/IabHelper.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/inapp/IabHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/translate_from_left.xml" afterPath="$PROJECT_DIR$/res/anim/translate_from_left.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/StarsShopActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/StarsShopActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/MoneyPack.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/MoneyPack.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/ThemesCategory.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/ThemesCategory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_social_network.xml" afterPath="$PROJECT_DIR$/res/layout/activity_social_network.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/search.xml" afterPath="$PROJECT_DIR$/res/menu/search.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/translate_down.xml" afterPath="$PROJECT_DIR$/res/anim/translate_down.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/translate_up.xml" afterPath="$PROJECT_DIR$/res/anim/translate_up.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/item_money_pack.xml" afterPath="$PROJECT_DIR$/res/layout/item_money_pack.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/manager/CursorSelectorAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/manager/CursorSelectorAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-v14/switcher.xml" afterPath="$PROJECT_DIR$/res/layout-v14/switcher.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/signature.xml" afterPath="$PROJECT_DIR$/res/menu/signature.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/manager/ChooserItemsCursorAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/manager/ChooserItemsCursorAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/InstaLoginDialog.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/InstaLoginDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_manager.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_manager.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/OnContactInfoClickListener.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/OnContactInfoClickListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/Postcard.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/Postcard.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/appearance_plus.xml" afterPath="$PROJECT_DIR$/res/anim/appearance_plus.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/ChooserItemsInfoCursorAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/ChooserItemsInfoCursorAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/fragment_scroll_shop.xml" afterPath="$PROJECT_DIR$/res/layout/fragment_scroll_shop.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/Photo.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/Photo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/dialog_welcome.xml" afterPath="$PROJECT_DIR$/res/layout/dialog_welcome.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_previews.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_previews.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_social_network.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_social_network.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/AddContactsFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/AddContactsFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/TitlesAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/TitlesAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/postcard_fragment_square.xml" afterPath="$PROJECT_DIR$/res/layout/postcard_fragment_square.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/social_network.xml" afterPath="$PROJECT_DIR$/res/menu/social_network.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/CatalogAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/CatalogAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_categories.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_categories.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_post.xml" afterPath="$PROJECT_DIR$/res/layout/activity_post.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_group.xml" afterPath="$PROJECT_DIR$/res/layout/row_group.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/BannerFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/BannerFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/utils/MyCursorLoader.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/utils/MyCursorLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/EditorActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/EditorActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/TextPack.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/TextPack.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_adress.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_adress.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/android/vending/billing/IInAppBillingService.aidl" afterPath="$PROJECT_DIR$/src/com/android/vending/billing/IInAppBillingService.aidl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/EventsListAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/EventsListAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/send/ReminderService.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/send/ReminderService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/manager/ContactsListCursorAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/manager/ContactsListCursorAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/CategoriesOpenShopFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/CategoriesOpenShopFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/shop_dialog_theme_content.xml" afterPath="$PROJECT_DIR$/res/layout/shop_dialog_theme_content.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_profile.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_profile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/themes.xml" afterPath="$PROJECT_DIR$/res/values/themes.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/ISendableItem.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/ISendableItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/WealthView.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/WealthView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/fragment_recipients.xml" afterPath="$PROJECT_DIR$/res/layout/fragment_recipients.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/fragment_send_postcards.xml" afterPath="$PROJECT_DIR$/res/layout/fragment_send_postcards.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/utils/ScreenParams.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/utils/ScreenParams.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/text_fragment.xml" afterPath="$PROJECT_DIR$/res/layout/text_fragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/inapp/Purchase.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/inapp/Purchase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/utils/Constants.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/utils/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/xml/searchable.xml" afterPath="$PROJECT_DIR$/res/xml/searchable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_clear.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_clear.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/done.xml" afterPath="$PROJECT_DIR$/res/menu/done.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_rec_info_clickable.xml" afterPath="$PROJECT_DIR$/res/layout/row_rec_info_clickable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/BottomPanelShopFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/BottomPanelShopFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/InstaImpl.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/InstaImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/shop_dialog_text_content.xml" afterPath="$PROJECT_DIR$/res/layout/shop_dialog_text_content.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/LineCountAnalyser.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/LineCountAnalyser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_appeals.xml" afterPath="$PROJECT_DIR$/res/layout/row_appeals.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/utils/WrongResponseCodeException.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/utils/WrongResponseCodeException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/titles_fragment.xml" afterPath="$PROJECT_DIR$/res/layout/titles_fragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_recipient_select.xml" afterPath="$PROJECT_DIR$/res/layout/activity_recipient_select.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/Event.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/Event.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/scaled_plus.xml" afterPath="$PROJECT_DIR$/res/anim/scaled_plus.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/VkLoginActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/VkLoginActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/view_main_shop_selection.xml" afterPath="$PROJECT_DIR$/res/layout/view_main_shop_selection.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/profile.xml" afterPath="$PROJECT_DIR$/res/menu/profile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_white.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_white.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_catalog.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_catalog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/PdfConverter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/PdfConverter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/styles_fastcards.xml" afterPath="$PROJECT_DIR$/res/values/styles_fastcards.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/PhotoTag.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/PhotoTag.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/TextCreator.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/TextCreator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/PostCardFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/PostCardFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/search_shop_fragment.xml" afterPath="$PROJECT_DIR$/res/layout/search_shop_fragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_signature.xml" afterPath="$PROJECT_DIR$/res/layout/activity_signature.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/inapp/SkuDetails.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/inapp/SkuDetails.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/SearchFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/SearchFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_listview.xml" afterPath="$PROJECT_DIR$/res/layout/activity_listview.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/EventsGroup.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/EventsGroup.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/postcard_sender.xml" afterPath="$PROJECT_DIR$/res/menu/postcard_sender.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/Offer.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/Offer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/raw_contacts_header.xml" afterPath="$PROJECT_DIR$/res/layout/raw_contacts_header.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/item_offer_dialog.xml" afterPath="$PROJECT_DIR$/res/layout/item_offer_dialog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/ShopFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/ShopFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/contact_join.xml" afterPath="$PROJECT_DIR$/res/menu/contact_join.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/texst_shop.xml" afterPath="$PROJECT_DIR$/res/menu/texst_shop.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/Theme.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/Theme.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/simple_list.xml" afterPath="$PROJECT_DIR$/res/layout/simple_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/SendPostcardDialog.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/SendPostcardDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/color.xml" afterPath="$PROJECT_DIR$/res/values/color.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_contact_list_large.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_contact_list_large.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/manager/SimpleItemCursorAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/manager/SimpleItemCursorAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_square.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_square.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/postcard_fragment_print.xml" afterPath="$PROJECT_DIR$/res/layout/postcard_fragment_print.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/analytics.xml" afterPath="$PROJECT_DIR$/res/values/analytics.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/ThemeCreator.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/ThemeCreator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/fragment_banner.xml" afterPath="$PROJECT_DIR$/res/layout/fragment_banner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/inapp/Base64DecoderException.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/inapp/Base64DecoderException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/Purchaser.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/Purchaser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/Text.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/Text.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/ThemeDialogFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/ThemeDialogFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/print_dialog.xml" afterPath="$PROJECT_DIR$/res/layout/print_dialog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/Auth.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/Auth.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/PreviewDialogFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/PreviewDialogFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/postcard_edit_buttons.xml" afterPath="$PROJECT_DIR$/res/layout/postcard_edit_buttons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/my_purse_dialog_content.xml" afterPath="$PROJECT_DIR$/res/layout/my_purse_dialog_content.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_search.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_search.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/SelectorActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/SelectorActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/RecipientViewInflater.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/RecipientViewInflater.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_main_shop.xml" afterPath="$PROJECT_DIR$/res/layout/activity_main_shop.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/HeaderLabel.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/HeaderLabel.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/view_main_shop_search.xml" afterPath="$PROJECT_DIR$/res/layout/view_main_shop_search.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/FinishSendingActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/FinishSendingActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/inapp/Security.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/inapp/Security.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/ActionsFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/ActionsFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/scroll_down.xml" afterPath="$PROJECT_DIR$/res/anim/scroll_down.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/TextWidthAnalyser.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/TextWidthAnalyser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_stars_shop.xml" afterPath="$PROJECT_DIR$/res/layout/activity_stars_shop.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/PostcardEditButtonsFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/PostcardEditButtonsFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/TextFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/TextFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/view_main_shop_purchases.xml" afterPath="$PROJECT_DIR$/res/layout/view_main_shop_purchases.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/categories_shop_fragment.xml" afterPath="$PROJECT_DIR$/res/layout/categories_shop_fragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/Api.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/Api.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_print.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_print.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_vk_large.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_vk_large.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/PostCardFragmentPrint.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/PostCardFragmentPrint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/RecipientSelectorActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/RecipientSelectorActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/TrackedActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/TrackedActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/PrintDialogActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/PrintDialogActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/SimpleItemMultiChooserAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/SimpleItemMultiChooserAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/text_shop.xml" afterPath="$PROJECT_DIR$/res/menu/text_shop.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/SignatureActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/SignatureActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_add_signature.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_add_signature.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/ContactsSelectorAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/ContactsSelectorAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_1screen.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_1screen.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_profile.xml" afterPath="$PROJECT_DIR$/res/layout/activity_profile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/PrintAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/PrintAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/main.xml" afterPath="$PROJECT_DIR$/res/menu/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_item_contact_expandable.xml" afterPath="$PROJECT_DIR$/res/layout/row_item_contact_expandable.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/switcher.xml" afterPath="$PROJECT_DIR$/res/layout/switcher.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_text.xml" afterPath="$PROJECT_DIR$/res/layout/row_text.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/utils/BitmapLoaderAsyncTask.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/utils/BitmapLoaderAsyncTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_fb_large.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_fb_large.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_my_events.xml" afterPath="$PROJECT_DIR$/res/layout/activity_my_events.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/test.xml" afterPath="$PROJECT_DIR$/res/menu/test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_test.xml" afterPath="$PROJECT_DIR$/res/layout/activity_test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/BannerPagerFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/BannerPagerFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/manager/ContactsManagerActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/manager/ContactsManagerActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_scroll_images.xml" afterPath="$PROJECT_DIR$/res/layout/row_scroll_images.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/GroupViewInflater.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/GroupViewInflater.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_preview_list_contacts.xml" afterPath="$PROJECT_DIR$/res/layout/activity_preview_list_contacts.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/ArticleLoader.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/ArticleLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/KException.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/KException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/profile/MyEventsAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/profile/MyEventsAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_card_store.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_card_store.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/MainShopActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/MainShopActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/SendYourselfActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/SendYourselfActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/fragment_manage_contact.xml" afterPath="$PROJECT_DIR$/res/layout/fragment_manage_contact.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/contacts_list.xml" afterPath="$PROJECT_DIR$/res/menu/contacts_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_purchases.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_purchases.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/raw_social_network.xml" afterPath="$PROJECT_DIR$/res/layout/raw_social_network.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/CategoriesScrollAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/CategoriesScrollAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_contacts_manager.xml" afterPath="$PROJECT_DIR$/res/layout/activity_contacts_manager.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_simple_item.xml" afterPath="$PROJECT_DIR$/res/layout/row_simple_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_delete.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_delete.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/SocialNetworkItem.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/SocialNetworkItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/scroll_up.xml" afterPath="$PROJECT_DIR$/res/anim/scroll_up.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/GridShopFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/GridShopFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/catalog_fragment.xml" afterPath="$PROJECT_DIR$/res/layout/catalog_fragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/PostCardFragmentSquare.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/PostCardFragmentSquare.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/fragment_add_contacts.xml" afterPath="$PROJECT_DIR$/res/layout/fragment_add_contacts.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/purse_replenishment.xml" afterPath="$PROJECT_DIR$/res/menu/purse_replenishment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/view_main_shop_categories.xml" afterPath="$PROJECT_DIR$/res/layout/view_main_shop_categories.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/TextPackFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/TextPackFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/profile/SocialNetworkActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/profile/SocialNetworkActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/OnUserContactInfoClickListener.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/OnUserContactInfoClickListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/scaled_minus.xml" afterPath="$PROJECT_DIR$/res/anim/scaled_minus.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_checked.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_checked.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/TextAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/TextAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/SimpleItemAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/SimpleItemAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_calendar.xml" afterPath="$PROJECT_DIR$/res/layout/activity_calendar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_print_pdf.xml" afterPath="$PROJECT_DIR$/res/layout/activity_print_pdf.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/utils/Account.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/utils/Account.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/manager/ManagerActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/manager/ManagerActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/Banner.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/Banner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/Action.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/Action.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/AppealFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/AppealFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/alpha_plus.xml" afterPath="$PROJECT_DIR$/res/anim/alpha_plus.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/MainShopPagerAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/MainShopPagerAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/shop_dialog_offer_content.xml" afterPath="$PROJECT_DIR$/res/layout/shop_dialog_offer_content.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/OfferCreator.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/OfferCreator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/utils/TableCursorLoader.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/utils/TableCursorLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/postcard_edit_text.xml" afterPath="$PROJECT_DIR$/res/drawable/postcard_edit_text.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/home.xml" afterPath="$PROJECT_DIR$/res/menu/home.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_tel_book_large.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_tel_book_large.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/ISenderActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/ISenderActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/postcard_fragment_vertical.xml" afterPath="$PROJECT_DIR$/res/layout/postcard_fragment_vertical.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/manager/ManageGroupActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/manager/ManageGroupActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/manager/ManageContactActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/manager/ManageContactActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_text_pack.xml" afterPath="$PROJECT_DIR$/res/layout/row_text_pack.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/CategoryGroup.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/CategoryGroup.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/BundlesShopFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/BundlesShopFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-v14/test.xml" afterPath="$PROJECT_DIR$/res/layout-v14/test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/profile/SocialNetworksAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/profile/SocialNetworksAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu-v11/search_view.xml" afterPath="$PROJECT_DIR$/res/menu-v11/search_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/text_pack_fragment_close.xml" afterPath="$PROJECT_DIR$/res/layout/text_pack_fragment_close.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/postcard_form_buttons.xml" afterPath="$PROJECT_DIR$/res/layout/postcard_form_buttons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_social_recipient.xml" afterPath="$PROJECT_DIR$/res/layout/row_social_recipient.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_editor.xml" afterPath="$PROJECT_DIR$/res/layout/activity_editor.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/ChooseGroupActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/ChooseGroupActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/done_delete.xml" afterPath="$PROJECT_DIR$/res/menu/done_delete.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/send/PostcardCreator.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/send/PostcardCreator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/profile/ProfileActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/profile/ProfileActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_create.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_create.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_recipient.xml" afterPath="$PROJECT_DIR$/res/layout/row_recipient.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/utils/Utils.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/utils/Utils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/Notification.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/Notification.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/ListShopFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/ListShopFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/add.xml" afterPath="$PROJECT_DIR$/res/menu/add.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/Counters.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/Counters.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout-v14/header_recipient_selector.xml" afterPath="$PROJECT_DIR$/res/layout-v14/header_recipient_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/TextDialogFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/TextDialogFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/text_pack_fragment_open.xml" afterPath="$PROJECT_DIR$/res/layout/text_pack_fragment_open.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_send_postcard.xml" afterPath="$PROJECT_DIR$/res/layout/activity_send_postcard.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_listview_progress.xml" afterPath="$PROJECT_DIR$/res/layout/activity_listview_progress.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/dialog_test_card.xml" afterPath="$PROJECT_DIR$/res/layout/dialog_test_card.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/CategoriesShopFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/CategoriesShopFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/OnCategoriesClickListener.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/OnCategoriesClickListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/SelectionsFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/SelectionsFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/Article.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/Article.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/SocialObject.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/SocialObject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_projects.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_projects.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/slider_alpha_plus.xml" afterPath="$PROJECT_DIR$/res/anim/slider_alpha_plus.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/fragment_contacts_list.xml" afterPath="$PROJECT_DIR$/res/layout/fragment_contacts_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/wealth.xml" afterPath="$PROJECT_DIR$/res/menu/wealth.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/PostCardFragmentVertical.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/PostCardFragmentVertical.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/banner_pager_fragment.xml" afterPath="$PROJECT_DIR$/res/layout/banner_pager_fragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/dialog_filename_view.xml" afterPath="$PROJECT_DIR$/res/layout/dialog_filename_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/Category.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/Category.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/PostSocialActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/PostSocialActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_events_list.xml" afterPath="$PROJECT_DIR$/res/layout/row_events_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/Appeal.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/Appeal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/ListContacts.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/ListContacts.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/shop_dialog_content.xml" afterPath="$PROJECT_DIR$/res/layout/shop_dialog_content.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/inapp/Inventory.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/inapp/Inventory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/MainActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/item_article.xml" afterPath="$PROJECT_DIR$/res/layout/item_article.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/translate_down_slider.xml" afterPath="$PROJECT_DIR$/res/anim/translate_down_slider.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/SimpleItem.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/SimpleItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/shop_dialog_title.xml" afterPath="$PROJECT_DIR$/res/layout/shop_dialog_title.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/utils/CacheCleaner.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/utils/CacheCleaner.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_my_events.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_my_events.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/search_done.xml" afterPath="$PROJECT_DIR$/res/menu/search_done.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/EventsCursorAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/EventsCursorAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/inapp/IabException.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/inapp/IabException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/PostcardSenderActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/PostcardSenderActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/manager/ChooserSocialFriendCursorAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/manager/ChooserSocialFriendCursorAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_manage_group.xml" afterPath="$PROJECT_DIR$/res/layout/activity_manage_group.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/manager/ContactsListFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/manager/ContactsListFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_finish_sending.xml" afterPath="$PROJECT_DIR$/res/layout/activity_finish_sending.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/onShopItemClickListener.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/onShopItemClickListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_events.xml" afterPath="$PROJECT_DIR$/res/layout/activity_events.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_add.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_add.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_category_scroll.xml" afterPath="$PROJECT_DIR$/res/layout/row_category_scroll.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/row_categories.xml" afterPath="$PROJECT_DIR$/res/layout/row_categories.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/PurseDialogFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/PurseDialogFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/User.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/raw_contact_info.xml" afterPath="$PROJECT_DIR$/res/layout/raw_contact_info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/editor/PostcardFormButtonsFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/editor/PostcardFormButtonsFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/send/AlarmReceiver.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/send/AlarmReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/PrintPdfActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/PrintPdfActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/selector_btn_settings.xml" afterPath="$PROJECT_DIR$/res/drawable/selector_btn_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/translate_to_left.xml" afterPath="$PROJECT_DIR$/res/anim/translate_to_left.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/ArticleAdapter.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/ArticleAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/manager/ProjectsManagerActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/manager/ProjectsManagerActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/wealth_view.xml" afterPath="$PROJECT_DIR$/res/layout/wealth_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/PreviewListActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/recipientselectors/PreviewListActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/Params.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/Params.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/shop/CategoriesGroupShopFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/shop/CategoriesGroupShopFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/SwipeDismissListViewTouchListener.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/SwipeDismissListViewTouchListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/Album.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/Album.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/social/api/DropboxApi.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/social/api/DropboxApi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/anim/alpha_minus.xml" afterPath="$PROJECT_DIR$/res/anim/alpha_minus.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/profile/MyEventsActivity.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/profile/MyEventsActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/send/AlarmService.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/send/AlarmService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/purchases_shop_fragment.xml" afterPath="$PROJECT_DIR$/res/layout/purchases_shop_fragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/Project.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/Project.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/manager/ContactGroupsFragment.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/manager/ContactGroupsFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/recipients_selector_social.xml" afterPath="$PROJECT_DIR$/res/menu/recipients_selector_social.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/fastcards/common/Comunication.java" afterPath="$PROJECT_DIR$/src/ru/fastcards/common/Comunication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/bottom_panel_shop_fragment.xml" afterPath="$PROJECT_DIR$/res/layout/bottom_panel_shop_fragment.xml" />
+    </list>
+    <ignored path="fastcards.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="fastcards" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ManageGroupActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/fastcards/manager/ManageGroupActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="3585">
+              <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainShopActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/fastcards/shop/MainShopActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3960">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+              <folding>
+                <marker date="1411491817000" expanded="false" signature="6810:6855" placeholder="&quot;No network connection&quot;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Api.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/fastcards/social/api/Api.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5813" max-vertical-offset="18525">
+              <caret line="448" column="42" selection-start-line="448" selection-start-column="42" selection-end-line="448" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataBaseHelper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/fastcards/utils/DataBaseHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="36465">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utils.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/fastcards/utils/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.73179394" vertical-offset="248" max-vertical-offset="6390">
+              <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WealthView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/fastcards/shop/WealthView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="915">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_manage_group.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/activity_manage_group.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1005" max-vertical-offset="1305">
+              <caret line="67" column="54" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../android2" value="1393844439000" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/ru/fastcards/shop/MainShopActivity.java" />
+        <option value="$PROJECT_DIR$/src/ru/fastcards/social/api/Api.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="87" />
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="717" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fastcards" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projects" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.25608343" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.fastcards">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="fastcards" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="fastcards" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.fastcards" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="894c456a-62f0-4dcc-a364-b9a09230fd50" name="Default" comment="" />
+      <created>1402406598926</created>
+      <updated>1402406598926</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="87" y="22" width="1280" height="717" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3602585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.106796116" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/manager/ManageGroupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3585">
+          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/shop/MainShopActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="3960">
+          <caret line="29" column="104" selection-start-line="29" selection-start-column="104" selection-end-line="29" selection-end-column="104" />
+          <folding>
+            <marker date="1411491817000" expanded="false" signature="6810:6855" placeholder="&quot;No network connection&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/utils/DataBaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="36465">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="6960">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/shop/WealthView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="915">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_manage_group.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1005" max-vertical-offset="1305">
+          <caret line="67" column="54" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/manager/ManageGroupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3585">
+          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/shop/MainShopActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="4065">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1411491817000" expanded="false" signature="6810:6855" placeholder="&quot;No network connection&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/utils/DataBaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="36465">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="6960">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/shop/WealthView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="915">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_manage_group.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1005" max-vertical-offset="1305">
+          <caret line="67" column="54" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/manager/ManageGroupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3585">
+          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/shop/MainShopActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1680" max-vertical-offset="4095">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <marker date="1411491817000" expanded="false" signature="6810:6855" placeholder="&quot;No network connection&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/utils/DataBaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="36465">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="6960">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/shop/WealthView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="915">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_manage_group.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1005" max-vertical-offset="1305">
+          <caret line="67" column="54" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/manager/ManageGroupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="3585">
+          <caret line="102" column="47" selection-start-line="102" selection-start-column="47" selection-end-line="102" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_manage_group.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1305">
+          <caret line="67" column="54" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2030" max-vertical-offset="5190">
+          <caret line="151" column="50" selection-start-line="151" selection-start-column="41" selection-end-line="151" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/utils/DataBaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5475" max-vertical-offset="35895">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/shop/WealthView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.945993" vertical-offset="0" max-vertical-offset="5190">
+          <caret line="151" column="50" selection-start-line="151" selection-start-column="41" selection-end-line="151" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_manage_group.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1005" max-vertical-offset="1305">
+          <caret line="67" column="54" selection-start-line="67" selection-start-column="54" selection-end-line="67" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/manager/ManageGroupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2805">
+          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/shop/MainShopActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3960">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <folding>
+            <marker date="1411491817000" expanded="false" signature="6810:6855" placeholder="&quot;No network connection&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/social/api/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5813" max-vertical-offset="18525">
+          <caret line="448" column="42" selection-start-line="448" selection-start-column="42" selection-end-line="448" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/fastcards/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73179394" vertical-offset="248" max-vertical-offset="6390">
+          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25608343" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25608343" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fastcards</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>libs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27114716" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:background="#99282828">
+    
+    <LinearLayout
+        android:id="@+id/layout_appeal"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginRight="10dp"
+        android:gravity="right"
+    	android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/button_appeal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:src="@drawable/selector_btn_add" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+        	android:layout_marginLeft="3dp"
+            android:gravity="center"
+            android:text="@string/appeal" />
+        
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/layout_signature"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+    	android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/button_signature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:src="@drawable/selector_btn_add" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+        	android:layout_marginLeft="3dp"
+            android:gravity="center"
+            android:text="@string/signature" />
+        
+    </LinearLayout>
+    
+
+</LinearLayout>

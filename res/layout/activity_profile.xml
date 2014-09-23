@@ -1,0 +1,100 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileActivity" >
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+        
+        <LinearLayout 
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical">
+        
+            <ImageButton 
+                android:id="@+id/my_events"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onMyEventsClick"
+                android:src="@drawable/selector_btn_my_events"
+                android:background="@android:color/transparent"/>        	
+               
+             <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+            	android:textColor="@color/text_orange"
+            	android:textAppearance="@android:style/TextAppearance.Large"
+            	android:gravity="center_horizontal"
+            	android:minLines="2"
+            	android:text="@string/my_events" />
+        </LinearLayout>
+                
+        <LinearLayout 
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical">            
+        	
+        	<ImageButton 
+                android:id="@+id/social_network"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onSocialNetworkClick"
+                android:src="@drawable/selector_btn_social_network"
+                android:background="@android:color/transparent"/>
+        	<TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+            	android:textColor="@color/text_orange"
+            	android:textAppearance="@android:style/TextAppearance.Large"
+            	android:gravity="center_horizontal"
+            	android:minLines="2"
+            	android:text="@string/social_networks" />
+        </LinearLayout>
+        
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+        
+
+        <LinearLayout 
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:orientation="vertical"
+        android:gravity="center">
+        	 
+        	<ImageButton 
+                android:id="@+id/my_purse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onMyPurseClick"
+                android:src="@drawable/selector_btn_purse"
+                android:background="@android:color/transparent"/>        	
+             
+             <TextView
+                android:layout_width="wrap_content"                
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+            	android:textColor="@color/text_orange"
+            	android:textAppearance="@android:style/TextAppearance.Large"
+            	android:gravity="center_horizontal"
+            	android:minLines="2"
+            	android:text="@string/my_wallet" />
+        </LinearLayout>        	
+    </TableRow>
+
+
+</TableLayout>

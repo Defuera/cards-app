@@ -1,0 +1,117 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/dialog_background"
+    android:gravity="center"
+    tools:context=".ShopDialogFragment"
+    android:orientation="vertical" >
+ 
+
+    <LinearLayout 
+        android:id="@+id/preview_screen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+        
+        <RelativeLayout 
+         android:layout_width="0dip"
+         android:layout_height="wrap_content"
+         android:layout_weight="1">
+         
+        <ImageView 
+         android:id="@+id/vertical"
+         android:padding="2dp"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_centerInParent="true"
+         android:scaleType="fitStart"/>
+
+        <ProgressBar
+            android:id="@+id/progress_vertical"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+         	android:layout_alignParentTop="true"
+         	android:layout_centerHorizontal="true" />
+        	
+        </RelativeLayout>
+        
+        <RelativeLayout 
+         android:layout_width="0dip"
+         android:layout_height="wrap_content"
+         android:layout_weight="1" >
+        
+        <ImageView 
+         android:id="@+id/square"
+         android:padding="2dp"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_centerInParent="true"
+         android:scaleType="fitStart"/>
+
+        <ProgressBar
+            android:id="@+id/progress_square"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+         	android:layout_alignParentTop="true"
+         	android:layout_centerHorizontal="true" />
+
+        </RelativeLayout>
+        
+        <RelativeLayout 
+         android:layout_width="0dip"
+         android:layout_height="wrap_content"
+         android:layout_weight="1"  >                
+       
+        <ImageView
+         android:id="@+id/print"
+         android:padding="2dp"
+         android:layout_width="wrap_content"
+         android:layout_height="match_parent"
+         android:layout_centerInParent="true"
+         android:scaleType="fitStart"/>
+
+        <ProgressBar
+            android:id="@+id/progress_print"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+         	android:layout_centerInParent="true"
+         	android:layout_centerHorizontal="true" />       
+    </RelativeLayout>
+</LinearLayout>
+    
+        
+   
+   <LinearLayout 
+       	android:id="@+id/large_screen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="vertical">
+        
+     <TextView
+        android:id="@+id/description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="6dp"
+        android:minLines="3"
+        android:textColor="@android:color/black"
+        android:singleLine="false"/>
+     
+     <View 
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/button_dialog_divider"/>
+ 
+    <ImageView
+        android:id="@+id/cover_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true" />
+    
+    </LinearLayout> 
+
+</LinearLayout>
+

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@+id/lv_recipients"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/ll_buttons"
+        android:descendantFocusability="beforeDescendants"
+        android:divider="@color/separator_grey"
+        android:dividerHeight="1px"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp" >
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/ll_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/grey_background"
+        android:descendantFocusability="beforeDescendants"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="10dp" >
+
+        <Button
+            android:id="@+id/btn_vk"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/selector_btn_tel_book_large" />
+
+        <Button
+            android:id="@+id/btn_contacts"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/selector_btn_vk_large" />
+
+        <Button
+            android:id="@+id/btn_facebook"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/selector_btn_fb_large" />
+    </LinearLayout>
+
+</RelativeLayout>

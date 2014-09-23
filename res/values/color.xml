@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="transperent">#CC545454</color>
+    <color name="clr_normal">#ACD52B</color>
+    <color name="clr_pressed">#0094CE</color>
+    <color name="transparent">#AA222222</color>
+    
+    
+    
+    <color name="color_for_title_sign">#AA999933</color>
+    
+    <color name="dash_edit_text">#55000000</color>
+    <color name="bg_text_gender_female">#ffcc00</color>
+    <color name="bg_text_gender_male">#cccccc</color>
+        
+    <color name="bg_transparent_black">#DC000000</color>
+    <color name="btn_green">#33cc66</color>
+    <color name="btn_green_pressed">#9933cc66</color>
+    <color name="white_transparent">#99FFFFFF</color>
+    <color name="black">#000000</color>
+    
+    
+    <color name="text_orange">#FFCC00</color>
+    <color name="separator_grey">#909090</color>
+    <color name="roller_grey">#414141</color>
+    <color name="text_event_crab_red">#FFFF9999</color>
+    <color name="text_event_orange">#FFDEB20A</color>
+    <color name="text_grey">#A1A1A1</color>
+    <color name="trans_background_grey">#25A7A7A7</color>
+        
+    <color name="grid_background">#FF000000</color>
+    <color name="cell_empty">#FF993311</color>
+    <color name="cell_nearly_empty">#88993311</color>
+    <color name="cell_filled">#FFA99033</color>
+    <color name="cell_empty_hover">#ff00ff00</color>
+    <color name="cell_filled_hover">#ffaadddd</color>
+    <color name="red">#ffff0000</color>
+    <color name="green">#ff00ff00</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="white">#ffffff</color>
+    <color name="drop_target_color1">#FF993311</color>
+    <color name="drop_target_color2">#FFA99033</color>
+    <color name="drop_target_enabled">#FF009933</color>
+    <color name="drop_target_disabled">#FFdddddd</color>
+    <color name="color_for_lists">#F8F8F8</color>
+    <color name="color_for_lists_divider">#96B2B0</color>
+    <color name="grey_background">#DE707070</color>
+
+    <color name="color_button_background">#EEEEEE</color>
+    <color name="light_grey">#55CCCCCC</color>
+    
+    <color name="dialog_background">#cccccc</color>
+    <color name="dialor_stars_background">#222222</color>
+    <color name="button_dialog_divider">#adadad</color>
+    
+    <color name="black_transparent">#77000000</color>
+    <color name="actionbar_background">#222222</color>
+    <color name="bg_grey_light">#e0e0e0</color>
+    
+    <color name="divider">#5d5d5d</color>
+    
+</resources>

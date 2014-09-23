@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+   	    <TabHost
+        android:id="@android:id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@color/text_event_orange">
+            </TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <LinearLayout
+                    android:id="@+id/themes_layout"
+                    android:paddingTop="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+            	<GridView 
+                	android:id="@+id/themes_grid_view"
+                	android:layout_width="match_parent"
+                	android:layout_height="match_parent"
+                	android:scrollbars="none"
+        			android:numColumns="3">
+           		</GridView>
+    			
+           		</LinearLayout>
+           		
+                                
+                <LinearLayout
+                    android:id="@+id/offer_layout"
+                    android:paddingTop="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+  	
+            	<ListView 
+               		android:id="@+id/offers_list_view"
+                	android:layout_width="match_parent"
+                	android:layout_height="match_parent"
+                	android:divider="@android:color/transparent"
+                	android:scrollbars="none">
+            	</ListView>
+            	</LinearLayout> 
+           		            	
+               <LinearLayout
+                    android:id="@+id/texts_layout"
+                    android:paddingTop="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+            	<GridView 
+                	android:id="@+id/texts_grid_view"
+                	android:layout_width="match_parent"
+                	android:layout_height="match_parent"
+                	android:scrollbars="none"
+        			android:numColumns="3">
+            </GridView>
+         </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/apache-mime4j-0.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/iText-4.2.0-com.itextpdf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/dropbox-sync-sdk-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libGoogleAnalyticsServices.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpclient-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpmime-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpcore-4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

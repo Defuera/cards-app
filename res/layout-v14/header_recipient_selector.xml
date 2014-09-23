@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="15dp"
+    android:paddingTop="15dp" >
+
+    <ImageView
+        android:id="@+id/iv_recipient_image"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+    <TextView
+        android:id="@+id/tv_recipient_name_modified"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/iv_recipient_image"
+        android:layout_marginLeft="15dp"
+        android:layout_toRightOf="@+id/iv_recipient_image"
+        android:background="@color/grey_background"
+        android:focusableInTouchMode="false"
+        android:text="@string/str_send_myself"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@android:color/white" >
+    </TextView>
+
+    <LinearLayout
+        android:id="@+id/ll_contact_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/iv_recipient_image"
+        android:layout_alignLeft="@+id/tv_recipient_name_modified"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:id="@+id/iv_contact_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/abc_ab_bottom_solid_dark_holo" />
+
+        <TextView
+            android:id="@+id/tv_recipient_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/iv_recipient_image"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/iv_contact_icon"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:text="TextView" />
+    </LinearLayout>
+
+    <Switch
+        android:id="@+id/toogle_send_myself"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@color/dash_edit_text" />
+
+</RelativeLayout>
